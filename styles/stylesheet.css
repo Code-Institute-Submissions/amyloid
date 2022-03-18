@@ -1,11 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    margin: 0 auto;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #212121;
+
     max-width: 800px;
+    padding: 30px;
     background: #fbf8f2;
-    margin: 30px;
 }
 
 h1 {
@@ -22,14 +33,6 @@ h2 {
     line-height: 2.0rem;
     font-weight: 500;
     color: #9c9c9c;
-}
-
-p {
-    font-family: "Inter", sans-serif;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 30px;
-    color: #212121;
 }
 
 .button-pill {
