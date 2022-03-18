@@ -39,8 +39,11 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 180%;
+    font-size: 250%;
+    text-transform: uppercase;
 }
+
+/* Buttons and graphics */
 
 .button-pill {
     font-family: "DM Sans", sans-serif;
