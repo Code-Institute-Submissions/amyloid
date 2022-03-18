@@ -85,3 +85,10 @@ h2 {
     text-align: center;
     display: block;
   }
+
+/* Hero image */
+
+img {
+    height: auto;
+    width: 100%;
+}
