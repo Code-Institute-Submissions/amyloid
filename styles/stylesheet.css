@@ -14,7 +14,6 @@ body {
     line-height: 30px;
     color: #212121;
 
-    max-width: 800px;
     padding: 30px;
     background: #fbf8f2;
 }
@@ -41,6 +40,17 @@ h2 {
     float: left;
     font-size: 250%;
     text-transform: uppercase;
+}
+
+/* Navigation */
+
+#menu {
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
 }
 
 /* Buttons and graphics */
