@@ -38,19 +38,36 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 200%;
     text-transform: uppercase;
 }
 
 /* Navigation */
 
 #menu {
-
+    font-size: 135%;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu, #logo {
+    line-height: 70px;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #212121;
+}
+
+.active {
+    border-bottom: 1px solid #212121;
 }
 
 /* Buttons and graphics */
