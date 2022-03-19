@@ -7,14 +7,15 @@
     border: none;
 }
 
+html {
+    font-size: 18px;
+}
+
 body {
     font-family: "Inter", sans-serif;
-    font-size: 18px;
     font-weight: 500;
     line-height: 30px;
     color: #212121;
-
-    padding: 30px;
     background: #fbf8f2;
 }
 
@@ -38,19 +39,22 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 150%;
+    line-height: 1.0rem;
     text-transform: uppercase;
 }
 
 /* Navigation */
 
 #menu {
-    font-size: 135%;
+    font-size: 100%;
+    text-transform: uppercase;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
+    margin-right: 30px;
 }
 
 #menu a {
@@ -84,8 +88,22 @@ h2 {
     height: fit-content;
     text-align: center;
     display: block;
-  }
+}
 
+.button-pill-menu {
+    font-family: "DM Sans", sans-serif;
+    font-size: 19px;
+    letter-spacing: 0.05rem;
+    color: #fbf8f2;
+    border-radius: 30px;
+    background-color: #212121;
+    padding: 3px;
+    width: contentfit;
+    height: contentfit;
+    text-align: center;
+    display: block;
+}
+  
 /* Hero image */
 
 img {
