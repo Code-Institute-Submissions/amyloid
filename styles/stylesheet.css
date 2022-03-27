@@ -88,3 +88,26 @@ h2 {
     width: 100%;
     background-image: url('../images/donegal-landscape-unsplash.jpg');
 }
+
+/* Symptoms section */
+
+#symptoms-outer {
+    height: 600px;
+}
+
+#left-symptoms {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-symptoms {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#middle-symptoms {
+    width: 33%;
+    margin: 0 auto;
+}
