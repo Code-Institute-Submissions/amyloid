@@ -111,6 +111,27 @@ h2 {
     background-image: url('../images/donegal-landscape-unsplash.jpg');
 }
 
+/* Footer */
+
+footer {
+    height: 250px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 1%;
+    color: #212121;
+}
+
 /* Types three columns */
 
 #types-header {
