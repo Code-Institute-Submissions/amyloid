@@ -34,7 +34,7 @@ h2 {
     font-size: 1.6rem;
     line-height: 2.0rem;
     font-weight: 500;
-    color: #212121;
+    color: #c5c5c5;
 }
 
 h6 {
@@ -123,12 +123,16 @@ footer {
     color: #444444;
 }
 
-/* Types three columns */
-
-#types-header {
+#page-header {
     text-align: center;
     margin-top: 50px;
 }
+
+#page-subheader {
+    text-align: center;
+}
+
+/* Types three columns */
 
 .three-column {
     display: flex;
@@ -194,3 +198,10 @@ input[type=submit]:hover {
     background-color: #064b57;
 }
   
+/* Blog */
+
+#blog-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
