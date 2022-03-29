@@ -29,10 +29,11 @@ body {
 
 #page-subheader {
     text-align: center;
+    font-weight: 400;
 }
 
 #page-container {
-    margin: 5% 33% 0 33%;
+    margin: 5% 33% 10% 33%;
 }
 
 /* headings and logo */
@@ -148,9 +149,9 @@ footer {
 
 .three-column div {
     flex: 1;
-    padding-block: 80px;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-block: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
     justify-content:flex-end;
 }
 
@@ -208,3 +209,56 @@ input[type=submit]:hover {
     width: 100%;
     overflow: hidden;
 }
+
+.blog-filter {
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.blog-filter > li {
+    display: inline;
+}
+
+.blog-filter i {
+    font-size: 200%;
+    margin: 10%;
+    padding: 29%;
+    color: #212121;
+}
+
+.blog-filter a:link {
+    text-decoration: none;
+    color: #212121;
+}
+
+.blog-filter a:visited {
+    text-decoration: none;
+    color: #212121;
+}
+
+.blog-filter a:hover {
+    text-decoration: none;
+    color: #212121;
+}
+
+.blog-filter a:active {
+    text-decoration: none;
+    color: #212121;
+}
+
+
+#blog-filter-container {
+    margin-top: 50px;
+}
+
+#filter-button {
+    background-color: #defcdf;
+    border: none;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+    font-size: 16px;
+  }
