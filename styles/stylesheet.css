@@ -19,6 +19,22 @@ body {
     color: #3a3a3a;
 }
 
+/* Page aligment */
+
+#page-header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#page-subheader {
+    text-align: center;
+}
+
+#page-container {
+    margin: 5% 33% 0 33%;
+}
+
 /* headings and logo */
 
 h1 {
@@ -100,6 +116,7 @@ h6 {
 
 footer {
     height: 250px;
+    background-color: #fffdf0;
 }
 
 .social-media {
@@ -121,15 +138,6 @@ footer {
 #disclaimer {
     text-align: center;
     color: #444444;
-}
-
-#page-header {
-    text-align: center;
-    margin-top: 50px;
-}
-
-#page-subheader {
-    text-align: center;
 }
 
 /* Types three columns */
@@ -161,11 +169,6 @@ footer {
 
 
 /* Submission form */
-
-.submission {
-    max-width: 600px;
-    margin: 5% 33% 0 33%;
-}
 
 input[type=text], select, textarea {
     font-family: "Inter", sans-serif;
