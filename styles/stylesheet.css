@@ -40,6 +40,7 @@ body {
     margin: 5% 20% 10% 20%; 
 }
 
+
 /* headings and logo */
 
 h1 {
@@ -62,6 +63,12 @@ h6 {
     font-family: "Inter", sans-serif;
     font-size: 0.8rem;
     line-height: 1.0rem;
+    font-weight: 400;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+    line-height: 1.6rem;
     font-weight: 400;
 }
 
@@ -126,7 +133,7 @@ h6 {
 
 footer {
     height: 250px;
-    background-color: #fffdf0;
+    background-color: #fcefd9b2;
 }
 
 .social-media {
@@ -276,12 +283,37 @@ input[type=submit]:hover {
 
 
 #blog-list-item {
-    background-color: aqua;
+    background-color: #fcefd9b2;
+    margin-bottom: 50px;
     border-radius: 35px;
+}
+
+#blog-list-title {
+    color: #212121;
+    margin: 1% 2% 1% 3%;
+}
+
+#blog-list-excerpt {
+    margin: 0% 2% 3% 3%;
+}
+
+#blog-type-pill {
+    background-color: #ffffff;
+    margin: 1% 2% 0% 3%;
+    border: none;
+    color: #212121;
+    padding: 4px 12px 4px 12px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: 600;
 }
 
 #blog-read-more-button {
     background-color: #defcdf;
+    margin: 0% 2% 3% 3%;
     border: none;
     color: #212121;
     padding: 8px 24px 8px 24px;
