@@ -257,26 +257,13 @@ input[type=submit]:hover {
     color: #212121;
 }
 
-.blog-filter a:link {
+.blog-filter a:link,
+.blog-filter a:visited,
+.blog-filter a:hover,
+.blog-filter a:active, {
     text-decoration: none;
     color: #212121;
 }
-
-.blog-filter a:visited {
-    text-decoration: none;
-    color: #212121;
-}
-
-.blog-filter a:hover {
-    text-decoration: none;
-    color: #212121;
-}
-
-.blog-filter a:active {
-    text-decoration: none;
-    color: #212121;
-}
-
 
 #blog-filter-container {
     margin-top: 50px;
@@ -333,10 +320,25 @@ input[type=submit]:hover {
     color: #212121;
     padding: 8px 24px 8px 24px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     border-radius: 30px;
     font-size: 16px;
+}
+
+#blog-read-more-button a {
+    text-decoration: none;
+    color: #212121;
+}
+
+#blog-read-more-button a:hover {
+    color: #3a3a3a;
+}
+
+#blog-read-more-button a:link,
+#blog-read-more-button a:visited,
+#blog-read-more-button a:active, {
+    text-decoration: none;
+    color: #212121;
 }
 
 /* Blog post */
