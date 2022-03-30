@@ -152,7 +152,7 @@ footer {
 
 .social-media {
     text-align: center;
-    margin-bottom: 4%;
+    margin-bottom: 1%;
 }
 
 .social-media > li {
@@ -169,6 +169,7 @@ footer {
 #disclaimer {
     text-align: center;
     color: #444444;
+    margin: 0% 18% 0% 18%;
 }
 
 /* Types three columns */
@@ -216,20 +217,20 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-    background-color: #047f9e;
+    background-color: #defcdf;
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 1.0rem;
     width: 100%;
-    color: rgb(255, 255, 255);
-    padding: 12px 20px;
+    color: #212121;
+    padding: 18px 24px 18px 24px;
     border: none;
     border-radius: 30px;
     cursor: pointer;
 }
 
 input[type=submit]:hover {
-    background-color: #064b57;
+    background-color: #95c797;
 }
   
 /* Blog */
