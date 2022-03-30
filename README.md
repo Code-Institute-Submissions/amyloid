@@ -3,13 +3,13 @@
 
 ***
 
-### Amyloidosis.ie is for amyloidosis patients to find and share information on the disease across Ireland.
+### Amy.ie is for amyloidosis patients to find and share information on the disease across Ireland.
 
-This is a fictional project. This is a "real-life" project that's aiming to solve a need - it's not fictional.
+This is a "real-life" project that's aiming to solve a need - it's not fictional.
 
 I'm working with a group of Amyloidosis patients in Ireland that are campaigning for better treatment, going through medical trials for gene silencing treatment and overall raising awareness of the disease.
 
-I became aware of the disease last year after my uncle was diagnosed with it. Then, it became clear that 
+I became aware of the disease last year after my uncle was diagnosed with it.
 
 Amyloidosis (am-uh-loi-DO-sis) is a rare disease that occurs when an abnormal protein, called amyloid, builds up in your organs and interferes with their normal function.
 
@@ -17,8 +17,13 @@ Amyloidosis (am-uh-loi-DO-sis) is a rare disease that occurs when an abnormal pr
 # Index 
 
 
-
-
+- [User experience](#user-experience-ux)
+- [Features](#features)
+- [Design language](#design-language)
+- [Technologies](#technologies)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 
 # User experience (UX)
@@ -94,7 +99,7 @@ or
 
 Sharing user stories will help personalise the disease and make any patient feel less alone. The form maintains a simplicity that focuses on the least information necessary.
 
-It's only necessary to include their first name and email address.
+It's only necessary to include their first name and location.
 
 ![IMAGE](.)
 
@@ -181,6 +186,8 @@ It's only necessary to include their first name and email address.
 
 - I learned about Flexbox from [w3schools](https://www.w3schools.com/css/css3_flexbox.asp) and [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
+- I learned how to add a default selection option in a form dropdown field on [Stack Overflow](https://stackoverflow.com/questions/8605516/default-select-option-as-blank)
+
 ### Media 
 
 - The icons are from [Font Awesome](https://fontawesome.com)
@@ -199,6 +206,6 @@ It's only necessary to include their first name and email address.
 
 - [Photo](https://www.pexels.com/photo/doctor-sitting-in-front-of-his-desk-2182979/) by LinkedIn Sales Navigator on Pexels
 
-### Thank you
+### Acknowledgments
 
 - Huge thanks to my mentor Brian Macharia, who offered sage advice on how to plan well, mental models, and resources on better ways to approach coding.

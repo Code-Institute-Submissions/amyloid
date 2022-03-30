@@ -42,19 +42,20 @@
     
     <section id="page-container">
         <div>
-            <form action="#">
+            <form action="https://formdump.codeinstitute.net">
         
             <label for="fname">First Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="Your first name..">
+            <input type="text" id="fname" name="firstname" placeholder="Your first name.." required>
         
             <label for="lname">Last Name</label>
             <input type="text" id="lname" name="lastname" placeholder="Your last name..">
         
             <label for="country">Location</label>
-            <select id="country" name="country">
-                <option value="australia">Ireland</option>
-                <option value="canada">Northern Ireland</option>
-                <option value="usa">Great Britian</option>
+            <select required id="country" name="country">
+                <option hidden disabled selected value>Choose your country</option>
+                <option value="ireland">Ireland</option>
+                <option value="northern-ireland">Northern Ireland</option>
+                <option value="great-britain">Great Britain</option>
             </select>
         
             <label for="subject">Your story</label>
