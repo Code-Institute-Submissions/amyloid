@@ -82,6 +82,11 @@ p {
 }
 
 #logo {
+    font-family: "DM Sans", sans-serif;
+    font-size: 2.2rem;
+    line-height: 2.6rem;
+    font-weight: 700;
+    color: #212121;
     float: left;
     font-size: 150%;
     line-height: 1.0rem;
