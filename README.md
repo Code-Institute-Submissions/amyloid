@@ -184,9 +184,11 @@ It's only necessary to include their first name and location.
 
 ### Code
 
-- I learned about Flexbox from [w3schools](https://www.w3schools.com/css/css3_flexbox.asp) and [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- I learned about Flexbox from [w3schools](https://www.w3schools.com/css/css3_flexbox.asp) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 - I learned how to add a default selection option in a form dropdown field on [Stack Overflow](https://stackoverflow.com/questions/8605516/default-select-option-as-blank)
+
+- I learned how to add Favicons and generate them with [Favicon.io](https://favicon.io/) and the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) to clarify best practice for hosting them in the root directory. 
 
 ### Media 
 
