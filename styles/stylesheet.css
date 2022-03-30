@@ -349,9 +349,14 @@ input[type=submit]:hover {
 
 @media only screen and (max-width: 450px) {
     #logo {
-        float: none;
         margin: 5% 22% 0 22%;
         text-decoration: none;
+    }
+    #page-header {
+        margin: 5% 5% 0% 5%;
+    }
+    #page-subheader {
+        margin: 5% 5% 0% 5%;
     }
     h1 {
         font-size: 1.9rem;
@@ -390,6 +395,19 @@ input[type=submit]:hover {
     #page-container-blog-post {
         margin: 5% 5% 10% 5%; 
     }
+    #blog-list-title {
+        color: #212121;
+        margin: 1% 7% 1% 7%;
+        line-height: 1.6rem;
+        margin-bottom: 25px;
+    }
+    #blog-list-excerpt {
+        margin: 1% 7% 1% 7%;
+    }
+    #blog-type-pill {
+        margin: 1% 7% 1% 7%;
+    }
+    
 
 @media only screen and (max-width: 1000px) {
     .three-column {
