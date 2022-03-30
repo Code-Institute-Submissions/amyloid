@@ -272,6 +272,7 @@ input[type=submit]:hover {
     border: none;
     color: white;
     padding: 15px 30px 15px 30px;
+    margin-bottom: 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -407,7 +408,6 @@ input[type=submit]:hover {
     #blog-type-pill {
         margin: 1% 7% 1% 7%;
     }
-    
 
 @media only screen and (max-width: 1000px) {
     .three-column {
