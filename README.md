@@ -1,9 +1,17 @@
-Hello, world! My README.md is coming soon.
-
-
+# Amy.ie  | Amyloidosis Ireland
 [View the live project here →](https://github.com/elainebroche-dev/ms1-thrive/)
 
-Amyloidosis.ie is for amyloidosis patients to find and share information on the disease across Ireland. Amyloidosis (am-uh-loi-DO-sis) is a rare disease that occurs when an abnormal protein, called amyloid, builds up in your organs and interferes with their normal function.
+***
+
+### Amyloidosis.ie is for amyloidosis patients to find and share information on the disease across Ireland.
+
+This is a fictional project. This is a "real-life" project that's aiming to solve a need - it's not fictional.
+
+I'm working with a group of Amyloidosis patients in Ireland that are campaigning for better treatment, going through medical trials for gene silencing treatment and overall raising awareness of the disease.
+
+I became aware of the disease last year after my uncle was diagnosed with it. Then, it became clear that 
+
+Amyloidosis (am-uh-loi-DO-sis) is a rare disease that occurs when an abnormal protein, called amyloid, builds up in your organs and interferes with their normal function.
 
 
 # Index 
@@ -102,14 +110,93 @@ It's only necessary to include their first name and email address.
 
 - Since the majority of users are expected to be elderly (the disease only appears in later life) I have opted for legibility with typesetting. 
 
-- I tested lots of font pairings to finally settle on DM Sans for the headings and Inter for the body.
-
-- They have a simplicity and a slightly larger than what I might normally design, for better accessibility.
+- I tested lots of font pairings to finally settle on DM Sans for the headings and Inter for the body. They have a simplicity and a slightly larger than what I might normally design, for more accessibility.
 
 ![IMAGE]()
 
 ### Colors
 
-- Minimal colours help focus the user on the important elements on the page. I opted for a simple complimentary set of greens, a soft cream to give the footer some foundation, and crucially a softer grey -rather than total black. 
+- Minimal colours help focus the user on the important elements on the page. I opted for a simple complimentary set of greens, a soft cream to give the footer some foundation, and a softer grey -rather than total black for type. 
 
 ![](docs/images/docs-colors.png)
+
+
+# Technologies 
+
+### Languages used
+- HTML5
+- CSS3
+
+### Additional frameworks, libraries and apps used
+
+- Google Fonts, to import fonts
+- Font Awesome, add icons
+- Git, for version control using the VSCode Termainl to commit to Git and push to Github
+- Github, where the repository is hosted
+- VSCode, to write and edit code
+- Figma, to draw quick mockups (iPad app) and layout the design language
+- Vercel, to host the project and provision a custom domain name
+
+# Testing
+
+### Validator testing
+
+- 
+
+### Browser compatibility
+
+- 
+
+### Validator testing
+
+- 
+
+### Known bugs
+
+- 
+
+# Deployment
+
+### How this site was deployed
+
+- From the Github repository, I setup Github pages from the `main` branch.
+
+- In addition, since the project is solving a "real-life" need I have deployed via [Vercel](https://vercel.com) too. It offers an abstracted backend of hosting and edge routing, all free for hobby projects.
+
+- In Vercel, I have connected this repository, set it to `main` branch therefore each push from VS Code now deploys into production. I can deploy to preview links using branches too, though that's for the future.
+
+# Credits 
+
+### Content
+
+- Images 
+
+- [Photo](https://unsplash.com/photos/K4EFDhu0oxw) by Tommy Kwak on Unsplash
+
+- [Photo](https://www.pexels.com/photo/man-people-woman-young-8460233/) by Los Muertos Crew on Pexels
+
+- [Photo](https://www.pexels.com/photo/man-love-people-woman-8460223/) by Los Muertos Crew on Pexels 
+
+- [Photo](https://unsplash.com/photos/Iy7QyzOs1bo) by Sangharsh Lohakare on Unsplash
+  
+
+- [Photo](https://www.pexels.com/photo/doctor-sitting-in-front-of-his-desk-2182979/) by LinkedIn Sales Navigator on Pexels
+
+- Research section:
+
+    - `Personal story` is based on this article [here](https://my.clevelandclinic.org/patient-stories/324-amyloidosis-patient-credits-faith-and-family-for-survival).
+
+    - `News articles` are credited before hyperlinks go out to the original source
+
+
+
+### Code
+
+
+### Media 
+
+- 
+
+### Thank you
+
+- Huge thanks to my mentor Brian Macharia, who offered sage advice on how to plan well, mental models, and resources on better ways to approach coding.
