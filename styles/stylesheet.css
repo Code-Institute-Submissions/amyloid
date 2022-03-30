@@ -186,19 +186,6 @@ footer {
     justify-content:flex-end;
 }
 
-@media only screen and (max-width: 1000px) {
-    .three-column {
-      flex-direction:column;
-    }
-    .three-column div {
-        flex: 1;
-        padding-block: 30px;
-        padding-left: 30px;
-        padding-right: 30px;
-        justify-content:flex-end;
-    }
-  }
-
 
 /* Submission form */
 
@@ -253,16 +240,27 @@ input[type=submit]:hover {
 .blog-filter i {
     font-size: 200%;
     margin: 10%;
-    padding: 29%;
+    padding: 25%;
     color: #212121;
 }
 
-.blog-filter a:link,
-.blog-filter a:visited,
-.blog-filter a:hover,
+.blog-filter a:link {
+    text-decoration: none;
+    color: #212121;
+}
+
+.blog-filter a:visited {
+    text-decoration: none;
+    color: #212121;
+}
+
 .blog-filter a:active, {
     text-decoration: none;
     color: #212121;
+}
+
+.blog-filter a:hover {
+    color: #3a3a3a;
 }
 
 #blog-filter-container {
@@ -349,3 +347,59 @@ input[type=submit]:hover {
     overflow: hidden;
 }
 
+@media only screen and (max-width: 450px) {
+    #logo {
+        float: none;
+        margin: 5% 22% 0 22%;
+        text-decoration: none;
+    }
+    h1 {
+        font-size: 1.9rem;
+    }
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    .three-column {
+      flex-direction:column;
+    }
+    .three-column div {
+        flex: 1;
+        padding-block: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        justify-content:flex-end;
+    }
+    .social-media {
+        padding-top: 8%;
+    }
+    #disclaimer {
+        text-align: left;
+        font-size: 70%;
+        color: #444444;
+        margin: 5% 5% 0% 5%;
+    }
+    #page-container {
+        margin: 5% 5% 10% 5%;
+    }
+    
+    #page-container-blog {
+        margin: 5% 5% 10% 5%; 
+    }
+    
+    #page-container-blog-post {
+        margin: 5% 5% 10% 5%; 
+    }
+
+@media only screen and (max-width: 1000px) {
+    .three-column {
+      flex-direction:column;
+    }
+    .three-column div {
+        flex: 1;
+        padding-block: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        justify-content:flex-end;
+    }
+  }
