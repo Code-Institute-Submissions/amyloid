@@ -130,7 +130,7 @@ It's only necessary to include their first name and email address.
 ### Additional frameworks, libraries and apps used
 
 - Google Fonts, to import fonts
-- Font Awesome, add icons
+- [Font Awesome](https://fontawesome.com/), add icons
 - Git, for version control using the VSCode Termainl to commit to Git and push to Github
 - Github, where the repository is hosted
 - VSCode, to write and edit code
@@ -145,11 +145,13 @@ It's only necessary to include their first name and email address.
 
 ### Browser compatibility
 
-- 
+- Chrome Version 99.0.4844.84
+- Safari Version 15.4
+- Firefox 98.0.2
 
 ### Validator testing
 
-- 
+
 
 ### Known bugs
 
@@ -169,7 +171,23 @@ It's only necessary to include their first name and email address.
 
 ### Content
 
-- Images 
+- Research article content:
+
+    - `Personal story` is based on this article [here](https://my.clevelandclinic.org/patient-stories/324-amyloidosis-patient-credits-faith-and-family-for-survival).
+
+    - `News articles` are credited on the site before hyperlinks go out to the original source — [BBC](https://www.bbc.com/news/health-58988006) and [Nature.com](https://www.nature.com/articles/s41408-021-00486-4).
+
+### Code
+
+- I learned about Flexbox from [w3schools](https://www.w3schools.com/css/css3_flexbox.asp) and [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+### Media 
+
+- The icons are from [Font Awesome](https://fontawesome.com)
+
+- Fonts were imported from [Google Fonts](https://fonts.google.com)
+
+### Images 
 
 - [Photo](https://unsplash.com/photos/K4EFDhu0oxw) by Tommy Kwak on Unsplash
 
@@ -178,24 +196,8 @@ It's only necessary to include their first name and email address.
 - [Photo](https://www.pexels.com/photo/man-love-people-woman-8460223/) by Los Muertos Crew on Pexels 
 
 - [Photo](https://unsplash.com/photos/Iy7QyzOs1bo) by Sangharsh Lohakare on Unsplash
-  
 
 - [Photo](https://www.pexels.com/photo/doctor-sitting-in-front-of-his-desk-2182979/) by LinkedIn Sales Navigator on Pexels
-
-- Research section:
-
-    - `Personal story` is based on this article [here](https://my.clevelandclinic.org/patient-stories/324-amyloidosis-patient-credits-faith-and-family-for-survival).
-
-    - `News articles` are credited before hyperlinks go out to the original source
-
-
-
-### Code
-
-
-### Media 
-
-- 
 
 ### Thank you
 
