@@ -113,18 +113,34 @@ It's only necessary to include their first name and location.
 
 ### Typography
 
-- Since the majority of users are expected to be elderly (the disease only appears in later life) I have opted for legibility with typesetting. 
+Since the majority of users are expected to be elderly (the disease only appears in later life) I have opted for legibility with typesetting. I tested lots of font pairings to find a simplicity and legibility to ultimately decide on:
 
-- I tested lots of font pairings to finally settle on DM Sans for the headings and Inter for the body. They have a simplicity and a slightly larger than what I might normally design, for more accessibility.
+ - Headings: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
 
-![IMAGE]()
+![Heading font DM Sans](docs/images/docs-fonts-2.png)
+
+
+- Body: [Inter](https://fonts.google.com/specimen/Inter)
+- Blockquotes: [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro)
+
+
+![Blockquote Crimson Pro and Body Inter](docs/images/docs-fonts-1.png)
+
+
+
+
 
 ### Colors
 
-- Minimal colours help focus the user on the important elements on the page. I opted for a simple complimentary set of greens, a soft cream to give the footer some foundation, and a softer grey -rather than total black for type. 
+- Minimal colours help focus the user on the important elements on the page. I opted for a simple complimentary set of greens, a soft cream to give the footer some foundation, and a softer grey — rather than total black - for type. 
 
 ![](docs/images/docs-colors.png)
 
+### Favicon
+
+- Minimal design of favicon using the DNA emoji with support for all browsers, including Apple Touch and Android app icons.
+
+![Favicon for amy.ie](docs/images/docs-favicon.png)
 
 # Technologies 
 
@@ -134,13 +150,13 @@ It's only necessary to include their first name and location.
 
 ### Additional frameworks, libraries and apps used
 
-- Google Fonts, to import fonts
-- [Font Awesome](https://fontawesome.com/), add icons
-- Git, for version control using the VSCode Termainl to commit to Git and push to Github
-- Github, where the repository is hosted
-- VSCode, to write and edit code
-- Figma, to draw quick mockups (iPad app) and layout the design language
-- Vercel, to host the project and provision a custom domain name
+- [Google Fonts](https://fonts.google.com/) to import fonts..
+- [Font Awesome](https://fontawesome.com/) add icons.
+- [Git](https://git-scm.com/) for version control using the VSCode Termainl to commit to Git and push to Github.
+- [Github](https://github.com/) where the repository is hosted.
+- [VSCode](https://code.visualstudio.com/), to write and edit code.
+- [Figma](https://figma.com/) to draw quick mockups (iPad app) and layout the design language.
+- [Vercel](https://vercel.com/) to host the project and provision a custom domain name.
 
 # Testing
 
@@ -192,9 +208,11 @@ It's only necessary to include their first name and location.
 
 ### Media 
 
-- The icons are from [Font Awesome](https://fontawesome.com)
+- Icons are from [Font Awesome](https://fontawesome.com)
 
-- Fonts were imported from [Google Fonts](https://fonts.google.com)
+- Fonts are imported from [Google Fonts](https://fonts.google.com)
+
+- Favicon images are licensed under [CC-BY 4.0](https://favicon.io/emoji-favicons/dna).
 
 ### Images 
 
