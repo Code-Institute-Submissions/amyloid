@@ -127,9 +127,6 @@ Since the majority of users are expected to be elderly (the disease only appears
 ![Blockquote Crimson Pro and Body Inter](docs/images/docs-fonts-1.png)
 
 
-
-
-
 ### Colors
 
 - Minimal colours help focus the user on the important elements on the page. I opted for a simple complimentary set of greens, a soft cream to give the footer some foundation, and a softer grey — rather than total black - for type. 
@@ -162,21 +159,26 @@ Since the majority of users are expected to be elderly (the disease only appears
 
 ### Validator testing
 
-- 
+- For https://amy.ie/index.html the result is:
+
+![](docs/validation-results/validator-index.png)
+
+- Warnings on other pages such as `"Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections"` I have allowed to remain, since with research I discovered that the `<section>` defintion states:
+
+> "The theme of each section _should_ be identified, typically by including a heading (h1-h6 element) as a child of the section element." _(Emphasis mine)_ [[Source]](https://www.w3.org/TR/2014/PR-html5-20140916/sections.html#the-section-element)
+
+- Since it's _should_ and not _must_ I am going to accept this as a warning — not an error — and proceed.
+
 
 ### Browser compatibility
 
-- Chrome Version 99.0.4844.84
-- Safari Version 15.4
-- Firefox 98.0.2
-
-### Validator testing
-
-
+- Chrome Version 99.0.4844.84 ✅
+- Safari Version 15.4 ✅
+- Firefox 98.0.2 ✅
 
 ### Known bugs
 
-- 
+- None known
 
 # Deployment
 
