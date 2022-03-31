@@ -163,7 +163,7 @@ Since the majority of users are expected to be elderly (the disease only appears
 - [Github](https://github.com/) where the repository is hosted.
 - [VSCode](https://code.visualstudio.com/) to write and edit code.
 - [Figma](https://figma.com/) to draw quick mockups (iPad app) and layout the design language.
-- [Vercel](https://vercel.com/) to host the project and provision a custom domain name.
+- [Vercel](https://vercel.com/) to host the project and assign my custom domain name.
  
 # Testing
  
@@ -224,9 +224,9 @@ Since the majority of users are expected to be elderly (the disease only appears
  
 ### Media
  
-- Icons are from [Font Awesome](https://fontawesome.com)
+- Icons are from [Font Awesome](https://fontawesome.com).
  
-- Fonts are imported from [Google Fonts](https://fonts.google.com)
+- Fonts are imported from [Google Fonts](https://fonts.google.com).
  
 - Favicon images are licensed under [CC-BY 4.0](https://favicon.io/emoji-favicons/dna).
  
@@ -244,5 +244,5 @@ Since the majority of users are expected to be elderly (the disease only appears
  
 ### Acknowledgments
  
-- Huge thanks to my mentor Brian Macharia, who offered sage advice on how to plan well, mental models, and resources on better ways to approach coding.
+- Huge thanks to my mentor Brian Macharia, who offered sage advice on; how to plan well, mental models, and resources on better ways to approach coding.
 
