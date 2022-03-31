@@ -140,9 +140,13 @@ Since the majority of users are expected to be elderly (the disease only appears
  
 ### Validator testing
  
-- For https://amy.ie/index.html the result is:
+- For https://amy.ie/index.html the HTML validator result is:
  
 ![](docs/validation-results/validator-index.png)
+
+- The CSS validator complete without issues:
+
+![](docs/validation-results/validator-css.png)
  
 - Warnings on other pages such as `"Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections"` I have allowed to remain, since with research I discovered that the `<section>` definition states:
  
