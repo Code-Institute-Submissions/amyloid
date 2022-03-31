@@ -50,18 +50,28 @@ As a **returning visitor** I want to easily;
 ### 1. Navigation bar
  
 - The navigation bar has a stable and consistent look on all pages. It includes a simple text logo, Home page, Research library page, and a submission page for users' own amyloidosis stories.
+
+![Navigation bar](docs/images/docs-nav-bar.png)
  
 ### 2. Landing page image
  
 - A wholesome Donegal landscape to help put the user's mind at ease. It's a moment of pause, without images or text or a call to action.
+
+![Landing image](docs/images/docs-landing.png)
  
 ### 3. Disease summary
  
 - The disease definition and its different types are listed in a three column layout.
+
+![Amyloid types](docs/images/docs-types-1.png)
+
+![Amyloid types 2](docs/images/docs-types-2.png)
  
 ### 4. Footer
  
 - The footer is identical across each page. It houses the social media contact icons and a medical disclaimer. This is particularly important when the site is dealing with the subject of healthcare of our users.
+
+![Footer](docs/images/docs-footer.png)
  
 ### 5. Research page header & filter
  
@@ -71,6 +81,8 @@ As a **returning visitor** I want to easily;
     - Academic paper
     - News article
 
+![Research header](docs/images/docs-filters.png)
+
 ### 6. Article sections
  
 - Each collated piece of research is either;
@@ -79,11 +91,15 @@ As a **returning visitor** I want to easily;
     OR
     - A section that links to an external source, without being hosted on our site.
 
+![Research item](docs/images/docs-item.png)
+
 ### 7. Story submission form
  
 Sharing user stories will help personalise the disease and make any patient feel less alone. The form maintains a simplicity that focuses on the least information necessary.
  
 It's only necessary to include their first name and location.
+
+![Story submission form](docs/images/docs-form.png)
 
 ## Future features
  
