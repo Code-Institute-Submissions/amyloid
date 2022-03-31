@@ -103,6 +103,7 @@ It's only necessary to include their first name and location.
 
 ## Future features
  
+- Responsive hamburger menu for mobile devices
 - Filter by research type using Javascript
 - Community forum for users to post topics and message each other
  
