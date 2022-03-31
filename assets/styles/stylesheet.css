@@ -27,7 +27,7 @@ body {
 #page-header {
     text-align: center;
     margin-top: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 #page-subheader {
@@ -395,7 +395,7 @@ input[type=submit]:hover {
     #page-subheader {
         font-size: 110%;
         line-height: 1.7rem;
-        margin: 5% 5% 5% 5%;
+        margin: 1% 5% 5% 5%;
     }
 
     h1 {
@@ -482,7 +482,7 @@ input[type=submit]:hover {
     #page-subheader {
         font-size: 110%;
         line-height: 1.7rem;
-        margin: 5% 5% 5% 5%;
+        margin: 1% 5% 5% 5%;
     }
 
     h1 {

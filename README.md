@@ -244,5 +244,5 @@ Since the majority of users are expected to be elderly (the disease only appears
  
 ### Acknowledgments
  
-- Huge thanks to my mentor Brian Macharia, who offered sage advice on; how to plan well, mental models, and resources on better ways to approach coding.
+- Huge thanks to my mentor Brian Macharia who offered sage advice on; how to sufficiently plan, work with mental models, and shared resources on better ways to approach coding.
 
