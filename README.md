@@ -95,15 +95,21 @@ As a **returning visitor** I want to easily;
 
 ### 7. Article blockquote
 
-It's worth calling out the design language feature here with the custom blockquote styled with a unique font. It serves as a pause for important moments in personal story articles.
+- It's worth calling out the design language feature here with the custom blockquote styled with a unique font. It serves as a pause for important moments in personal story articles.
 
 ![Blockquote in articles](docs/images/docs-blockquote.png)
 
-### 8. Story submission form
+### 8. Article navigation
+
+- To maintain a delightful and thoughful reading experience I added this blog navigation pill which returns the reader back to more research with a single tap. This way no scrolling to the top or swiping back are required, focused remains on the goal here: taking in information not getting confused by navigation.
+
+![Article navigation](docs/images/doc-article-nav.png)
+
+### 9. Story submission form
  
-Sharing user stories will help personalise the disease and make any patient feel less alone. The form maintains a simplicity that focuses on the least information necessary.
+- Sharing user stories will help personalise the disease and make any patient feel less alone. The form maintains a simplicity that focuses on the least information necessary.
  
-It's only necessary to include their first name and location.
+- It's only necessary to include their first name and location.
 
 ![Story submission form](docs/images/docs-submission.png)
 
