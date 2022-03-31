@@ -93,7 +93,13 @@ As a **returning visitor** I want to easily;
 
 ![Research item](docs/images/docs-item.png)
 
-### 7. Story submission form
+### 7. Article blockquote
+
+It's worth calling out the design language feature here with the custom blockquote styled with a unique font. It serves as a pause for important moments in personal story articles.
+
+![Blockquote in articles](docs/images/docs-blockquote.png)
+
+### 8. Story submission form
  
 Sharing user stories will help personalise the disease and make any patient feel less alone. The form maintains a simplicity that focuses on the least information necessary.
  
