@@ -109,7 +109,6 @@ blockquote {
 #menu {
     font-size: 100%;
     text-transform: uppercase;
-    overflow: hidden;
 }
 
 #menu li {
