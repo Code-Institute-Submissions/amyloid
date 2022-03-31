@@ -274,7 +274,9 @@ input[type=submit]:hover {
     margin-top: 50px;
 }
 
-#filter-button {
+#filter-button-personal,
+#filter-button-academic,
+#filter-button-news {
     background-color: #defcdf;
     border: none;
     color: white;
@@ -290,22 +292,30 @@ input[type=submit]:hover {
 /* Blog items */
 
 
-#blog-list-item {
+#blog-list-item-personal,
+#blog-list-item-news,
+#blog-list-item-academic {
     background-color: #fcefd9b2;
     margin-bottom: 50px;
     border-radius: 35px;
 }
 
-#blog-list-title {
+#blog-list-title-personal,
+#blog-list-title-news,
+#blog-list-title-academic {
     color: #212121;
     margin: 1% 2% 1% 3%;
 }
 
-#blog-list-excerpt {
+#blog-list-excerpt-personal,
+#blog-list-excerpt-news,
+#blog-list-excerpt-academic {
     margin: 0% 2% 1% 3%;
 }
 
-#blog-type-pill {
+#blog-type-pill-personal,
+#blog-type-pill-news,
+#blog-type-pill-academic {
     background-color: #ffffff;
     margin: 1% 2% 0% 3%;
     border: none;
@@ -319,7 +329,9 @@ input[type=submit]:hover {
     font-weight: 600;
 }
 
-#blog-read-more-button {
+#blog-read-more-button-personal,
+#blog-read-more-button-news,
+#blog-read-more-button-academic {
     background-color: #defcdf;
     margin: 0% 2% 3% 3%;
     border: none;
@@ -331,7 +343,9 @@ input[type=submit]:hover {
     font-size: 16px;
 }
 
-#blog-read-more-button a {
+#blog-read-more-button-personal a,
+#blog-read-more-button-news a,
+#blog-read-more-button-academic a {
     text-decoration: none;
     color: #212121;
 }
