@@ -109,6 +109,7 @@ blockquote {
 #menu {
     font-size: 100%;
     text-transform: uppercase;
+    overflow: hidden;
 }
 
 #menu li {
@@ -383,7 +384,7 @@ input[type=submit]:hover {
         margin: 5% 5% 0% 5%;
     }
     h1 {
-        font-size: 1.9rem;
+        font-size: 1.7rem;
     }
     h2 {
         font-size: 1.4rem;
@@ -448,7 +449,7 @@ input[type=submit]:hover {
         margin: 5% 5% 0% 5%;
     }
     h1 {
-        font-size: 4rem;
+        font-size: 1.9rem;
     }
     h2 {
         font-size: 1.4rem;
