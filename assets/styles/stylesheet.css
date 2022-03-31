@@ -371,26 +371,34 @@ input[type=submit]:hover {
     overflow: hidden;
 }
 
+/* Media queries*/
+
 @media only screen and (max-width: 450px) {
     #logo {
         margin: 5% 22% 0 22%;
         text-decoration: none;
     }
+
     #page-header {
         margin: 5% 2% 0% 2%;
     }
+
     #page-subheader {
         margin: 5% 5% 0% 5%;
     }
+
     h1 {
         font-size: 1.7rem;
     }
+
     h2 {
         font-size: 1.4rem;
     }
+
     .three-column {
       flex-direction:column;
     }
+
     .three-column div {
         flex: 1;
         padding-block: 30px;
@@ -398,15 +406,18 @@ input[type=submit]:hover {
         padding-right: 30px;
         justify-content:flex-end;
     }
+
     .social-media {
         padding-top: 8%;
     }
+
     #disclaimer {
         text-align: left;
         font-size: 70%;
         color: #444444;
         margin: 5% 5% 0% 5%;
     }
+
     #page-container {
         margin: 5% 5% 10% 5%;
     }
@@ -414,9 +425,11 @@ input[type=submit]:hover {
     #page-container-blog {
         margin: 5% 5% 10% 5%; 
     }
+
     #page-container-blog-post {
         margin: 5% 5% 10% 5%; 
     }
+
     #blog-list-title-personal,
     #blog-list-title-news,
     #blog-list-title-academic {
@@ -425,11 +438,13 @@ input[type=submit]:hover {
         line-height: 1.6rem;
         margin-bottom: 25px;
     }
+
     #blog-list-excerpt-personal,
     #blog-list-excerpt-news,
     #blog-list-excerpt-academic {
         margin: 1% 7% 1% 7%;
     }
+    
     #blog-type-pill-personal,
     #blog-type-pill-news,
     #blog-type-pill-academic {
