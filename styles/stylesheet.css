@@ -261,7 +261,7 @@ input[type=submit]:hover {
     color: #212121;
 }
 
-.blog-filter a:active, {
+.blog-filter a:active {
     text-decoration: none;
     color: #212121;
 }
@@ -358,7 +358,7 @@ input[type=submit]:hover {
 
 #blog-read-more-button a:link,
 #blog-read-more-button a:visited,
-#blog-read-more-button a:active, {
+#blog-read-more-button a:active {
     text-decoration: none;
     color: #212121;
 }
