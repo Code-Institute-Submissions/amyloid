@@ -101,7 +101,7 @@ As a **returning visitor** I want to easily;
 
 ### 8. Article navigation
 
-- To maintain a delightful and thoughful reading experience I added this blog navigation pill which returns the reader back to more research with a single tap. This way no scrolling to the top or swiping back are required, focused remains on the goal here: taking in information not getting confused by navigation.
+- To maintain a delightful and thoughtful reading experience I added this blog navigation pill which returns the reader back to more research with a single tap. This way no scrolling to the top or swiping back are required, focused remains on the goal here: taking in information not getting confused by navigation.
 
 ![Article navigation](docs/images/doc-article-nav.png)
 
@@ -157,11 +157,11 @@ Since the majority of users are expected to be elderly (the disease only appears
  
 ### Additional frameworks, libraries and apps used
  
-- [Google Fonts](https://fonts.google.com/) to import fonts..
+- [Google Fonts](https://fonts.google.com/) to import fonts.
 - [Font Awesome](https://fontawesome.com/) add icons.
 - [Git](https://git-scm.com/) for version control using the VSCode Terminal to commit to Git and push to Github.
 - [Github](https://github.com/) where the repository is hosted.
-- [VSCode](https://code.visualstudio.com/), to write and edit code.
+- [VSCode](https://code.visualstudio.com/) to write and edit code.
 - [Figma](https://figma.com/) to draw quick mockups (iPad app) and layout the design language.
 - [Vercel](https://vercel.com/) to host the project and provision a custom domain name.
  
