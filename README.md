@@ -57,7 +57,7 @@ As a **returning visitor** I want to easily;
  
 - A wholesome Donegal landscape to help put the user's mind at ease. It's a moment of pause, without images or text or a call to action.
 
-![Landing image](docs/images/docs-landing.png)
+![Landing image](docs/images/docs-landing-image.png)
  
 ### 3. Disease summary
  
@@ -99,7 +99,7 @@ Sharing user stories will help personalise the disease and make any patient feel
  
 It's only necessary to include their first name and location.
 
-![Story submission form](docs/images/docs-form.png)
+![Story submission form](docs/images/docs-submission.png)
 
 ## Future features
  
