@@ -380,7 +380,7 @@ input[type=submit]:hover {
     }
 
     #menu {
-        font-size: 85%;
+        font-size: 75%;
         clear: left;
         float: left;
         margin-left: 25px;
@@ -543,5 +543,20 @@ input[type=submit]:hover {
     #blog-type-pill-news,
     #blog-type-pill-academic {
         margin: 1% 7% 1% 7%;
+    }
+}
+
+@media only screen and (max-width: 1078px) {
+
+    .three-column {
+      flex-direction:column;
+    }
+
+    .three-column div {
+        flex: 1;
+        padding-block: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        justify-content:flex-end;
     }
 }
